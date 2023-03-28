@@ -3,3 +3,5 @@ Dummy Changes
 New changes
 
 Local Changes
+
+Added new change 2
